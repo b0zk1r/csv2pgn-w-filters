@@ -1,6 +1,6 @@
 # CSV to PGN Database Converter
 
-A user-friendly Windows application to convert chess games from CSV format to PGN format with filtering capabilities.
+A user-friendly Windows application to convert chess games from CSV format to PGN format with rating and theme(matein2) filtering capabilities.
 
 ## Features
 
