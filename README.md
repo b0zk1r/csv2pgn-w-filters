@@ -2,6 +2,8 @@
 
 A user-friendly Windows application to convert chess games from CSV format to PGN format with filtering capabilities.
 
+![Application Screenshot](screenshot.png)
+
 ## Features
 
 - Convert CSV files containing chess games to PGN format
